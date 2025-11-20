@@ -2,7 +2,9 @@
 
 ## Project Title
 Skhaftin: A Comprehensive Food Donation and Sharing Platform
-
+<a href="https://youtu.be/dyvt-6z32p8">
+    <img src="https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo on YouTube">
+  </a>
 ## TEAM Members
 - **Student Name**: Okuhle Nwayo
 - **Student Number**: St10299658
