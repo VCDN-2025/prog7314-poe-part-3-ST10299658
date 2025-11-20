@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skhaftin_POE</string>
+    <string name="settings_title">Instellings</string>
+    <string name="sound_settings">Klank</string>
+    <string name="sound_effects">Klank Effekte</string>
+    <string name="vibration">Vibrasie</string>
+    <string name="security">Sekuriteit</string>
+    <string name="biometric_login">Biometriese Aanmelding</string>
+    <string name="check_biometric_status">Kyk biometriese status…</string>
+    <string name="save_settings">Stoor Instellings</string>
+    <string name="biometric_hardware_not_available">Biometriese hardeware nie beskikbaar nie</string>
+    <string name="biometric_login_enabled">Biometriese aanmelding geaktiveer</string>
+    <string name="biometric_login_disabled">Biometriese aanmelding gedeaktiveer</string>
+    <string name="language_changed_message">Taal verander na %s</string>
+    <string name="biometric_not_available_message">Biometriese verifikasie is nie op hierdie toestel beskikbaar nie</string>
+    <string name="settings_saved_message">Instellings gestoor!</string>
+    <string name="language_settings">Taal Instellings</string>
+    <string name="select_language">Kies Taal</string>
+    <string name="english">Engels</string>
+    <string name="change_language">Verander Taal</string>
+    <string name="current_language">Huidige Taal: %s</string>
+    <string name="error">Probleem</string>
+    <string name="success">Sukses</string>
+    <string name="loading">Laai…</string>
+    <string name="retry">Probeer Weer</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="nav_home">Tuis</string>
+    <string name="nav_chat">Praat</string>
+    <string name="nav_settings">Instellings</string>
+    <string name="nav_profile">Profiel</string>
+    <string name="back">Terug</string>
+</resources>

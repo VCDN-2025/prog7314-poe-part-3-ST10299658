@@ -1,0 +1,52 @@
+<resources>
+    <!-- Settings Activity-->
+    <string name="settings_title">Settings</string>
+    <string name="sound_settings">Sound Settings</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="vibration">Vibration</string>
+    <string name="security">Security</string>
+    <string name="biometric_login">Biometric Login</string>
+    <string name="check_biometric_status">Check biometric status…</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="biometric_hardware_unavailable">Biometric hardware not available</string>
+    <string name="biometric_enabled">Biometric login enabled</string>
+    <string name="biometric_disabled">Biometric login disabled</string>
+    <string name="language_changed_message">Language changed to %s</string>
+    <string name="biometric_not_available_message">Biometric authentication not available on this device</string>
+    <string name="settings_saved_message">Settings saved!</string>
+
+    <!-- Notification Settings -->
+    <string name="notification_settings">Notification Settings</string>
+    <string name="daily_reminders">Daily Reminders</string>
+    <string name="food_updates">Food Updates</string>
+    <string name="test_notifications">Test Notifications</string>
+    <string name="send_test_notification">Send Test Notification</string>
+
+    <!-- Language Settings -->
+    <string name="language_settings">Language Settings</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="afrikaans">Afrikaans</string>
+    <string name="change_language">Change Language</string>
+    <string name="current_language">Current Language: %s</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_profile">Profile</string>
+    <string name="back">Back</string>
+
+    <!-- Common -->
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="app_name">Skhaftin</string>
+    <string name="default_web_client_id">
+        613179594454-fr0g4h92jnq70070blpf2srro59fgp8t.apps.googleusercontent.com
+    </string>
+</resources>
